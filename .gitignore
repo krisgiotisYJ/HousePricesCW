@@ -1,0 +1,7 @@
+# the national Land Registry files are downloaded by the notebook, not stored in the repo
+data/raw/
+
+# local Python environment and Jupyter leftovers
+.venv/
+.ipynb_checkpoints/
+__pycache__/
