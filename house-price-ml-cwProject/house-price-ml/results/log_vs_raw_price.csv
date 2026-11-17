@@ -1,0 +1,5 @@
+run,"MAE, top 10% by price","MAE, other 90%",MAPE %,average prediction - actual (£)
+R5 LinearRegression F1,384804.0,95455.7,24.8,-29601.5
+"E4 LinearRegression F1, raw price",347072.1,107327.4,27.5,-3917.3
+R7 Tuned RandomForest F1,385633.8,92441.7,24.2,-30512.5
+"E5 Tuned RandomForest F1, raw price",345176.1,99608.9,26.1,-2999.2
