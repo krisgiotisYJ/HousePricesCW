@@ -1,8 +1,0 @@
-run,compared with,val MAE,val gain,test MAE,test gain,95% CI low,95% CI high
-E1 Local median (district x type),R2,120823.5,13729.7,122785.8,15737.2,13577.1,17788.5
-E1 Local median (district x type),R7,120823.5,508.5,122785.8,-946.4,-2093.4,258.4
-E2 LinearRegression F2,R5,116106.8,7298.1,116390.4,8077.6,6801.4,9537.9
-E3 Tuned RandomForest F2,R7,114147.5,7184.5,113550.8,8288.6,7261.8,9395.0
-"E4 LinearRegression F1, raw price",R5,130084.7,-6679.9,131366.0,-6898.1,-8025.0,-5809.3
-"E5 Tuned RandomForest F1, raw price",R7,122828.2,-1496.2,124231.4,-2392.0,-3370.3,-1469.7
-E6 GradientBoosting F1,R7,120506.2,825.8,120055.2,1784.2,1068.3,2500.6
