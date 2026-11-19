@@ -1,0 +1,17 @@
+model,min_samples_leaf,max_features,train MAE,val MAE
+"A, without floor area",1,1.0,111647.8,122706.7
+"A, without floor area",1,sqrt,111656.3,122806.2
+"A, without floor area",5,1.0,113056.4,121982.9
+"A, without floor area",5,sqrt,113795.6,120762.7
+"A, without floor area",10,1.0,114038.6,121426.8
+"A, without floor area",10,sqrt,115144.2,120355.6
+"A, without floor area",20,1.0,115399.5,121269.2
+"A, without floor area",20,sqrt,116570.4,120444.0
+"B, with floor area",1,1.0,37683.4,88162.6
+"B, with floor area",1,sqrt,38499.6,91254.0
+"B, with floor area",5,1.0,66173.1,83263.0
+"B, with floor area",5,sqrt,73544.9,83679.1
+"B, with floor area",10,1.0,72602.2,83113.4
+"B, with floor area",10,sqrt,79201.4,85509.5
+"B, with floor area",20,1.0,78168.8,84242.0
+"B, with floor area",20,sqrt,84218.9,88351.6

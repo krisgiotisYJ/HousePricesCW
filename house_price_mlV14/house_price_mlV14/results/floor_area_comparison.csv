@@ -1,0 +1,4 @@
+,MAE,RMSE,R2,MAPE %
+"Model A, without floor area",118043.8754,210872.9215,0.4742,24.0649
+"Model B, with floor area",80226.5133,135532.2241,0.7828,16.7592
+Difference (A - B),37817.3621,75340.6975,-0.3086,7.3057

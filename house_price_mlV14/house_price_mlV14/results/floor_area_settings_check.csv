@@ -1,0 +1,4 @@
+,settings,MAE,gain over Model A
+Model A,"{'min_samples_leaf': 10, 'max_features': 'sqrt'}",118043.9,0.0
+"Model B, its own settings","{'min_samples_leaf': 10, 'max_features': 1.0}",80226.5,37817.4
+"Model B, Model A's settings","{'min_samples_leaf': 10, 'max_features': 'sqrt'}",83164.9,34879.0
