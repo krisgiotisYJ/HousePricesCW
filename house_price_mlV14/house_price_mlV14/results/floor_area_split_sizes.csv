@@ -1,4 +1,0 @@
-split,period,rows,median price,median floor area (m2)
-train,2021-2022,27686,457000.0,83.0
-validation,2023,8563,453000.0,82.0
-test,Jan-Oct 2024,5610,462500.0,83.0
