@@ -1,0 +1,4 @@
+borough,R4 RandomForest F0,R6 RandomForest F1,R7 Tuned RandomForest F1,postcode gain (R4-R6)
+Bromley,159449.0,145616.0,139221.0,13833.0
+Croydon,99478.0,96282.0,93474.0,3196.0
+Greenwich,160354.0,139213.0,135305.0,21141.0

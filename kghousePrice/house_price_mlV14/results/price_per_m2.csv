@@ -1,0 +1,13 @@
+borough,property type,sales,median price,median floor area (m2),median price per m2
+Bromley,Detached,2679,860000,141.0,6166
+Bromley,Semi,4496,600000,101.0,5880
+Bromley,Terraced,4083,499000,87.2,5708
+Bromley,Flat,5257,331000,62.2,5366
+Croydon,Detached,1684,742000,136.3,5431
+Croydon,Semi,3067,538000,102.0,5148
+Croydon,Terraced,4715,430000,86.0,5000
+Croydon,Flat,5509,295000,61.0,5000
+Greenwich,Detached,241,875000,129.0,6494
+Greenwich,Semi,1309,565000,99.0,5617
+Greenwich,Terraced,3390,487000,88.9,5557
+Greenwich,Flat,5429,410000,65.0,6531

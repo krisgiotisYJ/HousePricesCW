@@ -1,0 +1,4 @@
+split,period,rows,median price
+train,2024,10835,460000.0
+validation,Jan-Jun 2025,5730,465000.0
+test,Jul-Dec 2025,5605,470000.0
