@@ -1,0 +1,8 @@
+,,n,median_price,MAE,MAPE
+property_type,Detached,677,802500.0,253686.0,27.0
+property_type,Flat,2034,326750.0,89253.0,31.0
+property_type,Semi,1244,585000.0,133202.0,20.0
+property_type,Terraced,1650,475000.0,99346.0,18.0
+borough,Bromley,2251,525000.0,139221.0,24.0
+borough,Croydon,2015,440000.0,93474.0,21.0
+borough,Greenwich,1339,460000.0,135305.0,30.0

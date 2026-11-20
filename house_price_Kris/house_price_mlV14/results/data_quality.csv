@@ -1,0 +1,7 @@
+step,2024,2025,total,removed
+raw file (England & Wales),932214,992278,1924492,0
+district in 3 boroughs,13484,13880,27364,1897128
+category A (standard sales),10835,11336,22171,5193
+type D/S/T/F (drop 'O'),10835,11336,22171,0
+no duplicate IDs,10835,11336,22171,0
+valid postcode,10835,11335,22170,1
